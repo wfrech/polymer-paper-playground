@@ -1,2 +1,3 @@
 # polymer-paper-playground
-Playground for polymer paper elements
+Playground for Polymer paper elements.
+
